@@ -1,2 +1,1 @@
-# learn_scalable
-Scala Scalable Programming
+Scalaスケーラブルプログラミングの学習用リポジトリ。
